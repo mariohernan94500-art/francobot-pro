@@ -1,0 +1,9 @@
+Flask
+python-telegram-bot[asyncio]
+yt-dlp
+ffmpeg-python
+deep-translator
+google-api-python-client
+google-auth
+beautifulsoup4
+requests
